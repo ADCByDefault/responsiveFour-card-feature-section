@@ -52,6 +52,7 @@ h1.light {
 
 .bold {
     font-weight: bold;
+    display: block;
 }
 
 .header-text {
